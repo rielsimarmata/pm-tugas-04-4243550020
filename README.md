@@ -5,7 +5,7 @@
 - **Nama:** Jhon Gabriel Simarmata
 - **NIM:** 4243550020
 - **Kelas:** PSIK 24C
-- **Mata Kuliah:** Pemrograman Mobile (3KOM40215) Pertemuan 4
+- **Mata Kuliah:** Pemrograman Mobile  Pertemuan 4
 - **Dosen:** Adidtya Perdana, S.T., M.Kom
 
 ## Diagram Kelas
