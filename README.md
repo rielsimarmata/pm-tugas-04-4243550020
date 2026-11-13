@@ -58,4 +58,4 @@ Enkapsulasi diterapkan pada `Parkiran` melalui field privat `_kendaraan` dan `_p
 
 ## Pernyataan Penggunaan AI
 
-Kode dibuat dengan bantuan AI dan sudah dipelajari serta dijalankan oleh saya.
+Sebagian kode disusun dengan bantuan AI, kemudian dipelajari, disesuaikan, dan diuji secara langsung oleh penulis.
