@@ -50,7 +50,7 @@ classDiagram
 
 ## Tangkapan Layar Keluaran
 
-(Tempel screenshot hasil dart run di sini)
+![output program](screenshot-1.png)
 
 ## Penjelasan Konsep
 
